@@ -228,8 +228,8 @@ Once you have saved the file, go ahead and restart your master.
 
 Now navigate to your OpenShift master in a web browser.  If you have a valid client certificate, you should just be authenticated.
 
-.. _`openshift-disconnected`: https://github.com/jason-callaway/openshift-disconnected
-.. _`Issues`: https://github.com/jason-callaway/openshift-disconnected/issues
+.. _`openshift-disconnected`: https://github.com/RedHatGov/openshift-disconnected
+.. _`Issues`: https://github.com/RedHatGov/openshift-disconnected/issues
 .. _`OpenSCAP`: https://www.open-scap.org/
 .. _`Ansible Galaxy`: https://galaxy.ansible.com/
 .. _`RHTPS`: https://galaxy.ansible.com/rhtps
@@ -239,4 +239,4 @@ Now navigate to your OpenShift master in a web browser.  If you have a valid cli
 .. _`private-aws`: https://galaxy.ansible.com/rhtps/private-aws/
 .. _`yum`: https://galaxy.ansible.com/rhtps/yum/
 .. _`registry`: https://galaxy.ansible.com/rhtps/registry/
-.. _`README`: https://github.com/jason-callaway/openshift-disconnected/blob/master/README.md
+.. _`README`: https://github.com/RedHatGov/openshift-disconnected/blob/master/README.md

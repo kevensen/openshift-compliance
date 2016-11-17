@@ -32,8 +32,8 @@ Who can I talk to about this?
 talk to your Red Hat account team.
 
 
-.. _`project`: https://github.com/jason-callaway/openshift-compliance
+.. _`project`: https://github.com/RedHatGov/openshift-compliance
 .. _`Jason Callaway`: jcallawa@redhat.com
-.. _`Issues`: https://github.com/jason-callaway/openshift-compliance/issues
-.. _`Issue`: https://github.com/jason-callaway/openshift-compliance/issues
-.. _`1.0beta`: https://github.com/jason-callaway/openshift-compliance/milestone/1
+.. _`Issues`: https://github.com/RedHatGov/openshift-compliance/issues
+.. _`Issue`: https://github.com/RedHatGov/openshift-compliance/issues
+.. _`1.0beta`: https://github.com/RedHatGov/openshift-compliance/milestone/1
